@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihcan-akan&label=Profile%20views&color=0e75b6&style=flat" alt="melihcan-akan" /> </p>
 
-- 🌱 I’m currently learning **php and frontend**
+- 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me **melihcan.akan@hotmail.com**
 
