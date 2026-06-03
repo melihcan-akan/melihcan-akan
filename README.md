@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Melih Can.</h1>
-<h3 align="center">A junior embedded developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihcan-akan&label=Profile%20views&color=0e75b6&style=flat" alt="melihcan-akan" /> </p>
 
